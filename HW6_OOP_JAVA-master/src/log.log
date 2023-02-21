@@ -1,0 +1,6 @@
+февр. 12, 2023 8:47:52 PM Service.impl.SolveIpml solve
+INFO: Sum: varA=2.0; varB=3.0operationSUMMARIZEResult: 5.0
+февр. 12, 2023 8:49:22 PM Service.impl.SolveIpml solve
+INFO: Divide: varA=8.0; varB=2.0operationDIVIDEResult: 4.0
+февр. 12, 2023 8:51:17 PM Service.impl.SolveIpml solve
+INFO: Muktiply: varA=4.0; varB=3.0operationMULTIPLYResult: 12.0
